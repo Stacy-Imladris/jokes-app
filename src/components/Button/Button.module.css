@@ -1,0 +1,12 @@
+.button {
+    margin-top: 16px;
+    background-color: #bd1212;
+    color: white;
+    font-size: 70px;
+    padding: 30px 20px;
+    border-radius: 4px;
+}
+
+.success {
+    background-color: green;
+}

@@ -1,0 +1,15 @@
+.errorText {
+    font-family: "Roboto", serif;
+    font-size: 100px;
+    font-weight: 600;
+}
+
+.text {
+    font-family: "Roboto", serif;
+    font-weight: 500;
+    font-size: 40px;
+    border-top: 1px solid black;
+    width: 120%;
+    margin-top: 50px;
+    padding-top: 20px;
+}
